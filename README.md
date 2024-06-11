@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Delius+Unicase&size=30&pause=1000&center=true&vCenter=true&random=false&width=500&height=50&lines=%F0%9F%91%8B+Hello+World+%F0%9F%98%AC" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merienda&size=30&weight=900&pause=1000&center=true&vCenter=true&random=false&width=500&height=100&color=68F759FF&lines=%F0%9F%91%8B+Hello+World+%F0%9F%98%AC" alt="Typing SVG" /></a>
   
 </div>
 
@@ -36,11 +36,11 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=joyoum132&count_private=true&show_icons=true&theme=holi&hide=stars" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=joyoum132&count_private=true&show_icons=true&theme=dark&hide=stars" height="150" />
   </a>
   &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyoum132&layout=compact&hide=scss,html&theme=holi&exclude_repo=effective-java-3e-source-code" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyoum132&layout=compact&hide=scss,html&theme=dark&exclude_repo=effective-java-3e-source-code" height="150" />
   </a>
 </div>
 
