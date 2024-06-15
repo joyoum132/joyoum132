@@ -1,11 +1,9 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merienda&size=30&weight=900&pause=1000&center=true&vCenter=true&random=false&width=500&height=100&color=68F759FF&lines=%F0%9F%91%8B+Hello+World+%F0%9F%98%AC" alt="Typing SVG" /></a>
   
-</div>
-
 <div align="center">
   <a href="https://joyoum132.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=blogger&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Linked%20In-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=#"/></a>
+  <a href="https://www.linkedin.com/in/joy132"><img src="https://img.shields.io/badge/Linked%20In-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=#"/></a>
   <a href="mailto:yoojy01@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=yoojy01@gmail.com"/></a>
 </div>
 
